@@ -1,4 +1,6 @@
-description: null
+description: Measure time intervals up to 4us with precision 65ps. Also is capable
+  for measure temperature (with 16bit resolution) if module is connected to temperature
+  sensor such as PT1000.
 github_branch: GP201A
 github_repo: GP201
 github_url: https://github.com/mlab-modules/GP201
